@@ -15,7 +15,7 @@ header {
     background-size: cover;
     color: white;
     text-align: center;
-    padding: 260px 0;
+    padding: 200px 0;
 
 }
 
@@ -57,7 +57,7 @@ header a {
     background: white;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
     header {
         padding: 60px 0;
     }
